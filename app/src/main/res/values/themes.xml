@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.KsheeraSagara" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

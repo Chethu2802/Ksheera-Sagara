@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable_login_bg.jpg.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable/login_bg.jpg"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/xml_backup_rules.xml.flat",
+        "source": "com.ksheera.sagara.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable_ksheera_logo.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable/ksheera_logo.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/xml_file_paths.xml.flat",
+        "source": "com.ksheera.sagara.app-main-59:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ksheera.sagara.app-debug-57:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ksheera.sagara.app-main-59:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

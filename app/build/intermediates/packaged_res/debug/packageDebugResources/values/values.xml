@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#10B981</color>
+    <string name="app_name">Ksheera Sagara</string>
+    <string name="app_name_kn">ಕ್ಷೀರ ಸಾಗರ</string>
+    <style name="Theme.KsheeraSagara" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
