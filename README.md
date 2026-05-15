@@ -49,9 +49,7 @@ git clone https://github.com/YourUsername/Ksheera-Sagara.git
 Open the project in Android Studio
 Sync Gradle files
 Run the application on an emulator or Android device
-Screenshots
 
-Add your application screenshots here.
 
 Example:
 
@@ -61,14 +59,10 @@ Analytics Screen
 Milk Entry Screen
 Report Generation Screen
 Future Enhancements
-Cloud Synchronization
 Multi-language Support
-Voice-Based Data Entry
 Advanced AI Recommendations
-Online Backup and Restore
-IoT-Based Dairy Monitoring
-Developed By
 
+Developed By
 Chethan H M
 
 Android App Development using Generative AI Internship Project
