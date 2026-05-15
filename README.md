@@ -79,11 +79,3 @@ License
 This project is developed for educational and internship purposes.
 
 
-After updating:
-1. Save the file
-2. Run:
-
-```bash
-git add README.md
-git commit -m "Updated README"
-git push
