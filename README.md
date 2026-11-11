@@ -82,7 +82,7 @@ app/
 
 ## Developed By
 Chethan H M
-BE CSE - 7th Semester
+BE CSE
 ATME College of Engineering, Mysuru
 Android + Gen AI Prototyping Intern @ MindMatrix.io
 MindMatrix TalentTrack - HireReady 2026
